@@ -18,6 +18,10 @@ server/package-lock.json
 server/.cph
 server/db.json
 
+## rtmp
+rtmp-server/node_modules
+rtmp-server/package-lock.json
+
 
 # production
 /build
